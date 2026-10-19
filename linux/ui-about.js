@@ -58,8 +58,8 @@ UI.tab({
       pc,
       build,
       UI.card('Made by', [
-        UI.row('Mohammed (MOOODEGRX-nah)', 'MOOODEGRX-nah.vercel.app', [link('Portfolio', 'portfolio')]),
-        UI.row('Source code', 'github.com/InukaAsith/HalawahomDesk', [link('GitHub', 'github')]),
+        UI.row('Mohammed (MOOODEGRX-nah)', 'github.com/MOOODEGRX-nah/halawahomedesk', [link('Portfolio', 'portfolio')]),
+        UI.row('Source code', 'github.com/MOOODEGRX-nah/halawahomedesk', [link('GitHub', 'github')]),
         UI.row('All releases', 'Downloads for macOS, Windows and Linux', [link('Releases', 'releases')]),
       ], { cls: 'keep-on' }),
       UI.card('Licence', [

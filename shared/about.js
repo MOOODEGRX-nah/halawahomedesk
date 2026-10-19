@@ -9,10 +9,10 @@ const os = require('os');
 const fs = require('fs');
 
 const LINKS = {
-  portfolio: 'https://MOOODEGRX-nah.vercel.app',
-  github: 'https://github.com/InukaAsith/HalawahomDesk',
-  releases: 'https://github.com/InukaAsith/HalawahomDesk/releases',
-  licence: 'https://github.com/InukaAsith/HalawahomDesk/blob/main/LICENSE',
+  portfolio: 'https://github.com/MOOODEGRX-nah/halawahomedesk',
+  github: 'https://github.com/MOOODEGRX-nah/halawahomedesk',
+  releases: 'https://github.com/MOOODEGRX-nah/halawahomedesk/releases',
+  licence: 'https://github.com/MOOODEGRX-nah/halawahomedesk/blob/main/LICENSE',
 };
 
 const NAME = { darwin: 'HalawahomDesk for macOS', win32: 'HalawahomDesk for Windows', linux: 'HalawahomDesk for Linux' };

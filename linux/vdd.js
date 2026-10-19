@@ -42,7 +42,7 @@ const POLICY_XML = `<?xml version="1.0" encoding="UTF-8"?>
  "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
 <policyconfig>
   <vendor>HalawahomDesk</vendor>
-  <vendor_url>https://github.com/InukaAsith/HalawahomDesk</vendor_url>
+  <vendor_url>https://github.com/MOOODEGRX-nah/halawahomedesk</vendor_url>
   <action id="org.halawahomedesk.linux.connector">
     <description>Switch a spare display output on for HalawahomDesk's Extend</description>
     <message>HalawahomDesk wants to switch a spare display output on or off</message>
